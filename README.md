@@ -20,7 +20,7 @@
 - 🌐 [https://www.linkedin.com/in/dhanishtha-deshpande-733100322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
   
 # 📂 Projects:
-- 📷 Photo Management Android App (college project)
+- 📷 fake news detector 
 - 📊 Portfolio Website (HTML, CSS project — hosted soon)  
 - 🧠 Coming Soon: AI Mini Projects
 
